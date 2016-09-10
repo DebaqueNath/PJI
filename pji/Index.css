@@ -1,0 +1,56 @@
+.bloc {
+	border:3px dotted black;
+	padding: 5px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+
+.formulaire {
+	border: 1px solid #cccccc;
+	color: black;
+	padding: 10px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10pt;
+	/*width : auto; 	*/
+}
+
+
+.formulaire table{
+	display: inline-block;
+}
+
+.formulaire .slider {
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.formulaire select{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.formulaire input{
+	margin-left: 2px;
+	margin-right: 2px;
+}
+
+.formulaire .slider2 {
+	margin-top : 10px;
+}
+
+#formulaire2  {
+	margin-top : 10px;
+}
+
+.formulaire #nb {
+	display: inline-block;
+}
+
+.formulaire .item {
+	margin-top : 10px;
+	margin-bottom : 10px;
+}
